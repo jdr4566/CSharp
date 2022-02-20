@@ -8,7 +8,7 @@
 
 using System;
 
-namespace Module_04_Assignment_Rodriguez
+namespace Module_03_Assignment_Rodriguez
 {
     class Compare
     {
